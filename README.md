@@ -10,5 +10,5 @@ A simple 2048 game create by C
 	./game
 
 #### play
-just need up, downleft, right, arrow and enter
+just need up, down, left, right, arrow and enter
 enjoy it	
